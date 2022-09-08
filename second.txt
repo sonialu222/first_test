@@ -1,0 +1,19 @@
+
+
+git config --global user.email "你的email"
+git config --global user.name "你的名字"
+git config user.name
+git init
+git status
+git add .
+git status
+
+第一次用git status，是確認有哪些檔案
+用git add .，是全選
+第二次用git status，是確認選擇了哪些檔案(紅字變綠字)?
+
+cd "C:\Users\dlemi\OneDrive\Desktop\
+git commit -m 'first commit'
+git commit -m 'first commit'
+
+second
