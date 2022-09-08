@@ -1,2 +1,4 @@
 print("Hi.sonia")
 print("good")
+print("yes")
+print("hi")

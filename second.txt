@@ -17,3 +17,10 @@ git commit -m 'first commit'
 git commit -m 'first commit'
 
 second
+
+1. :
+2. q!
+
+git commit -m 'modify first'
+
+git init 是建立一個空的倉庫，git add 建立草稿 ，git commit 建立備份 這樣嗎??
